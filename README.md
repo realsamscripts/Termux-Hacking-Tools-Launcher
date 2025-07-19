@@ -1,4 +1,4 @@
-# Termux Hacking Tools Launcher
+# Termux Hacking Tools Launcher 👾
 
 Welcome to the **Termux Hacking Tools Launcher** — your personal toolkit for ethical hacking and cybersecurity exploration, optimized for mobile use through Termux. This project brings together some of the most essential tools into one simple, tap-to-use interface — no installation scripts, no clutter, just access.
 
