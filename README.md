@@ -47,7 +47,7 @@ This project is made with **Termux users in mind**:
 
 Just tap the link below and you’re in. No installation or setup required:
 
-👉 **[Launch Termux Tools](https://scriptiq--termux-hacking-tools.hf.space)**
+👉 **[Launch Termux Tools](https://huggingface.co/spaces/scriptiq/termux-hacking-tools)**
 
 ---
 
