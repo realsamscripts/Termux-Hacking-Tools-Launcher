@@ -75,4 +75,4 @@ Ideas, tools, or UI suggestions? Open a pull request or start a discussion.
 
 ---
 
-Built with 💻 by [@scriptiq](https://github.com/scriptiq)
+Built by [@realsamscripts](https://github.com/realsamscripts)
